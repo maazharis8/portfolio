@@ -12,6 +12,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <h1>maaz</h1>
     <h1>maaz</h1>
     <h1>maaz</h1>
-    <h1>maaz</h1>
   </React.StrictMode>
 );
