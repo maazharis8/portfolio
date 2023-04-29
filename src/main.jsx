@@ -7,11 +7,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App />
     <h1>maaz</h1>
-    <h1>maaz</h1>
-    <h1>maaz</h1>
-    <h1>maaz</h1>
-    <h1>maaz</h1>
-    <h1>maaz</h1>
-    <h1>maaz</h1>
   </React.StrictMode>
 );
