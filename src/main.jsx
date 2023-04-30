@@ -8,5 +8,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
     <h1>maaz</h1>
     <h1>maaz</h1>
+    <h1>maaz</h1>
+    <h1>maaz</h1>
   </React.StrictMode>
 );
